@@ -1,1 +1,1 @@
-default['homebrew']['casks'] = []
+default['homebrew']['casks'] = {}
